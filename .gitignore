@@ -1,0 +1,7 @@
+# Standard ignores
+.DS_Store
+*.log
+node_modules/
+dist/
+.env
+.gemini/
